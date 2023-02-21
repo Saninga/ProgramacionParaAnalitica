@@ -15,8 +15,17 @@ Here's the file structure of this repository:
 ┃ ┣ 📜 PY0101EN-2-3-Sets.ipynb  
 ┃ ┗ 📜 PY0101EN-2-4-Dictionaries.ipynb   
 ┣ 📂 Semana2  
-┃ ┣ 📜 script.py  
-┃ ┗ 📜 utils.py  
+┃ ┣ 📜 3-1.2ExcecptionHandling.ipynb  
+┃ ┣ 📜 PY0101EN-3-1-Conditions.ipynb  
+┃ ┣ 📜 PY0101EN-3-2-Loops.ipynb  
+┃ ┣ 📜 PY0101EN-3-3-Functions .ipynb  
+┃ ┣ 📜 PY0101EN-4-1-ReadFile.ipynb  
+┃ ┗ 📜 PY0101EN-4-2-WriteFile.ipynb  
+┣ 📂 Semana3  
+┃ ┣ 📜 DA0101EN-Review-Introduction.jupyterlite.ipynb  
+┃ ┣ 📜 Module 4_Pandas_Practice.ipynb  
+┃ ┣ 📜 Module 5_PY0101EN-5-1-Numpy1D.ipynb  
+┃ ┗ 📜 Module 5_PY0101EN-5-2-Numpy2D.ipynb  
 ┗ 📜 README.md
 
 
